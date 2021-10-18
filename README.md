@@ -23,5 +23,6 @@ Currently I'm focused on Data Engineer, generating schema in the data warehouse,
 
 ## What I don't know yet, give me a few days!
 
-[![seltons1 github stats](https://github-readme-stats.vercel.app/api?username=seltons1&show_icons=true&theme=prussian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seltons1&langs_count=5&layout=compact)](https://github.com/seltons1/seltons1)
+![seltons1 github stats](https://github-readme-stats.vercel.app/api?username=seltons1&show_icons=true&theme=prussian)
+![TopLang Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=seltons1&theme=prussian&show_icons=true)
+
