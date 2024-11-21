@@ -5,11 +5,11 @@
 
 ## About me:
 
-I'm a Fullstack Engineer. I've been working with development since 2008.
+I'm a Data Engineer.
 
-I have experience in analysis and development of technological solutions, focusing on backend development, Data Engineer and Data Analysis. My strengths are great communication, ease of teamwork and proactivity.
+I have experience in analysis and development of technological solutions, focusing on backend development, Data Engineer. My strengths are great communication, ease of teamwork and proactivity.
 
-Currently I'm focused on Data Engineer, generating schema in the data warehouse, creating data ingestion pipelines, developing scripts to refine the process and building dashboards.
+Currently I'm focused on Data Engineer, generating schema in the data warehouse, creating data ingestion pipelines, developing scripts to refine the process.
 
 ## My specialties:
 
